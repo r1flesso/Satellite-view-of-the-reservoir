@@ -4,6 +4,5 @@
 ## Установка
 1. Клонируйте мой репозиторий:
     ```bash
-    [git clone https://github.com/your-username/spam-classifier.git
-    cd spam-classifier](https://github.com/r1flesso/Satellite-view-of-the-reservoir)
+    git clone https://github.com/r1flesso/Satellite-view-of-the-reservoir
     ```
