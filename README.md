@@ -11,3 +11,7 @@
    python -m venv venv
    source venv/bin/activate
    ```
+3. Установите необходимые библиотеки:
+   ```bash
+   pip install -r requirements.txt
+   ```
