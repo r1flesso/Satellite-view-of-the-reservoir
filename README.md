@@ -6,3 +6,8 @@
     ```bash
     git clone https://github.com/r1flesso/Satellite-view-of-the-reservoir
     ```
+2. Создайте и активируйте виртуальное окружение:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
