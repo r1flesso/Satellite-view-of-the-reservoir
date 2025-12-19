@@ -19,6 +19,6 @@
 ## Использование
 ### Обучение
 Для обучения самой лучшей модели на данных clear_data.csv и сохранения ее в MLflow Вам достаточно запустить файл MY_BEST_MODEL.py:
-    ```bash
-    python MY_BEST_MODEL.py
-    ```
+```bash
+python MY_BEST_MODEL.py
+```
