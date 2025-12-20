@@ -1,4 +1,4 @@
-from DTC_with_gini import DecisionTreeClassifier_Model
+from decision_tree_gini import DecisionTreeClassifier_Model
 import itertools
 import pandas as pd
 from pathlib import Path
