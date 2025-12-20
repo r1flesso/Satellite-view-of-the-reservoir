@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parents[3]
 DATA_PATH = BASE_DIR / 'data' / 'clear_data.csv'
 
 # Переводим нашу csv таблицу в формат pd.DataFrame
-df = pd.read_csv(DATA_PATH)
+df = pd.read_csv(DATA_PATH, sep=';', decimal=',')
 
 
 X = df.drop(columns=['type'])
