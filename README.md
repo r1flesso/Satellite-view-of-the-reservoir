@@ -37,7 +37,7 @@ python best_model_metrics.py
 
 ## Структура проекта
 - Папка data содержит в себе очищенный датасет, на котором обучаются модели
-- В папке notebooks ...
+- В папке notebooks содержатся 2 Jupyter notebook: mlflow_results_processing.ipynb (служит для анализа результатов моделей) и viewing_clear_data.ipynb (служит для просмотра информации о датасете)
 - В папке scripts представлены два файла: best_model_metrics.py и collect_metrics.py
 - В папке src/models/classifical представлены все модели машинного обучения, в том числе best_model.py, которая реализована на Random Forest
 - Два файла requirements.txt и requirements_pytorch.txt служат для управления зависимостями проекта, каждый из которых включает необходимые библиотеки для различных компонентов. requirements.py содержит стандартные зависимости для работы с моделью, а requirements_pytorch.txt — для установки зависимостей, необходимых для работы с библиотеками PyTorch
