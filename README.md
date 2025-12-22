@@ -15,6 +15,10 @@
    ```bash
    pip install -r requirements.txt
    ```
+   или для PyTorch:
+   ```bash
+   pip install -r requirements_pytorch.txt
+   ```
 
 ## Использование
 Для обучения самой лучшей модели на данных clear_data.csv и сохранения ее в MLflow Вам достаточно запустить файл MY_BEST_MODEL.py:
